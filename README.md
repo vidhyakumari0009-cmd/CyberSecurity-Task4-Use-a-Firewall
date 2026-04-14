@@ -24,13 +24,11 @@ Configure and test firewall rules to understand network security.
 
 ## Screenshots
 
-| Step | Screenshot |
-|------|------------|
-| Firewall Status | screenshots/firewall_status.png |
-| Inbound Rules | screenshots/inbound_rules.png |
-| Block Rule | screenshots/port23_block.png |
-| Test Result | screenshots/telnet_test.png |
-| Restore Changes | screenshots/rule_deleted.png |
+ Firewall Status 
+ Inbound Rules 
+ Block Rule 
+ Test Result 
+ Restore Changes 
 
 ---
 
