@@ -1,4 +1,4 @@
-# FUTURE_CS_04 - Firewall Configuration
+# Firewall Configuration
 
 ## Cyber Security Internship Task 4
 
